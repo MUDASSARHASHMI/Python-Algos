@@ -15,7 +15,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algos$LinearRegression.coverage" NAME="LinearRegression Coverage Results" MODIFIED="1453637601763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algos$LinearRegression.coverage" NAME="LinearRegression Coverage Results" MODIFIED="1453638124119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,7 +32,7 @@
       <file leaf-file-name="LinearRegression.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="77" selection-start="576" selection-end="576" vertical-scroll-proportion="0.78746593" vertical-offset="0" max-vertical-offset="442">
+            <state line="28" column="49" selection-start="790" selection-end="790" vertical-scroll-proportion="0.8147139" vertical-offset="177" max-vertical-offset="578">
               <folding>
                 <element signature="e#25#48#0" expanded="true" />
               </folding>
@@ -351,7 +351,11 @@
       <created>1453637335823</created>
       <updated>1453637335823</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added linear regression line in blue">
+      <created>1453637636263</created>
+      <updated>1453637636263</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -388,7 +392,8 @@
     </option>
     <MESSAGE value="Regression | Linear" />
     <MESSAGE value="Showing Regression Table" />
-    <option name="LAST_COMMIT_MESSAGE" value="Showing Regression Table" />
+    <MESSAGE value="Added linear regression line in blue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added linear regression line in blue" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -417,7 +422,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="77" selection-start="576" selection-end="576" vertical-scroll-proportion="0.78746593" vertical-offset="0" max-vertical-offset="442">
+        <state line="28" column="49" selection-start="790" selection-end="790" vertical-scroll-proportion="0.8147139" vertical-offset="177" max-vertical-offset="578">
           <folding>
             <element signature="e#25#48#0" expanded="true" />
           </folding>

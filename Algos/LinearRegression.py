@@ -19,3 +19,11 @@ plt.plot(x, x*slope+intercept, 'b')# 'b' here is just the blue color for line
 plt.axis([0, 600, 0, 5000])
 plt.plot()
 plt.show()
+
+# Lets make a prediction based on above
+newValueX = 200
+newValueY = newValueX*slope+intercept
+
+print(newValueY)
+
+# Result will show predicted price 1846.20911765.
