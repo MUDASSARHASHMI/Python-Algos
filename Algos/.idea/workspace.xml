@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba950bdf-8d71-412a-aaa7-d88bb3c80c75" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Algos.iml" afterPath="$PROJECT_DIR$/.idea/Algos.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LinearRegression.py" afterPath="$PROJECT_DIR$/LinearRegression.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Algos.iws" />
@@ -17,7 +15,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Algos$LinearRegression.coverage" NAME="LinearRegression Coverage Results" MODIFIED="1453634507870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algos$LinearRegression.coverage" NAME="LinearRegression Coverage Results" MODIFIED="1453637266550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -34,7 +32,18 @@
       <file leaf-file-name="LinearRegression.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="18" selection-start="65" selection-end="67" vertical-scroll-proportion="0.13896458" vertical-offset="0" max-vertical-offset="391">
+            <state line="16" column="27" selection-start="470" selection-end="470" vertical-scroll-proportion="0.7411444" vertical-offset="0" max-vertical-offset="408">
+              <folding>
+                <element signature="e#25#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyplot.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1355" column="4" selection-start="43181" selection-end="43181" vertical-scroll-proportion="0.0" vertical-offset="24851" max-vertical-offset="64328">
               <folding />
             </state>
           </provider>
@@ -334,12 +343,18 @@
       <created>1453590206862</created>
       <updated>1453590206862</updated>
     </task>
+    <task id="LOCAL-00001" summary="Regression | Linear">
+      <created>1453634584247</created>
+      <updated>1453634584247</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32935154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -367,6 +382,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="Regression | Linear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Regression | Linear" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -375,7 +392,9 @@
     <entry file="file://$PROJECT_DIR$/LinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2" column="23" selection-start="43" selection-end="48" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding />
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -384,10 +403,19 @@
         <state line="3451" column="40" selection-start="109582" selection-end="109582" vertical-scroll-proportion="5.702997" vertical-offset="56472" max-vertical-offset="90984" />
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/matplotlib/pyplot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1355" column="4" selection-start="43181" selection-end="43181" vertical-scroll-proportion="0.0" vertical-offset="24851" max-vertical-offset="64328">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LinearRegression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="18" selection-start="65" selection-end="67" vertical-scroll-proportion="0.13896458" vertical-offset="0" max-vertical-offset="391">
-          <folding />
+        <state line="16" column="27" selection-start="470" selection-end="470" vertical-scroll-proportion="0.7411444" vertical-offset="0" max-vertical-offset="408">
+          <folding>
+            <element signature="e#25#48#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
