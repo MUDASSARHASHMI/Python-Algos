@@ -14,6 +14,8 @@ plt.plot(x, y, 'ro', color='black')
 plt.xlabel('Sizes of Houses')
 plt.ylabel('Prices of Houses')
 
+# After we calculated lets generate the regression line
+plt.plot(x, x*slope+intercept, 'b')# 'b' here is just the blue color for line
 plt.axis([0, 600, 0, 5000])
 plt.plot()
 plt.show()
